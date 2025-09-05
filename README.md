@@ -93,3 +93,5 @@ When you are done, here the result:
 And you are done!
 
 **Good job!**
+
+![alt text](./images/image.png)
